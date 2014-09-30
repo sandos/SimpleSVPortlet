@@ -22,5 +22,9 @@
 			<description>SiteVision config mode</description>
 			<portlet-mode>CONFIG</portlet-mode>
 		</custom-portlet-mode>
+		
+		<portlet-info>
+		    <title>ArcGIS portlet</title>
+		</portlet-info>
     </portlet>
 </portlet-app>
